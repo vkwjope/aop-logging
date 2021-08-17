@@ -1,0 +1,6 @@
+2021-08-17 13:54:22.415 DEBUG [emp-mgmt-service, ,,] [http-nio-8991-exec-1] com.example.employeemanagementservice.controller.EmployeeController : getMsg
+2021-08-17 13:54:22.416 DEBUG [emp-mgmt-service, ,,] [http-nio-8991-exec-1] com.example.employeemanagementservice.controller.EmployeeController : []
+2021-08-17 13:54:22.422 DEBUG [emp-mgmt-service, ,,] [http-nio-8991-exec-1] com.example.employeemanagementservice.controller.EmployeeController : getMsgReturned valueHEllo
+2021-08-17 13:54:22.423 DEBUG [emp-mgmt-service, ,,] [http-nio-8991-exec-1] com.example.employeemanagementservice.controller.EmployeeController : getMsg
+2021-08-17 13:54:22.423 DEBUG [emp-mgmt-service, ,,] [http-nio-8991-exec-1] com.example.employeemanagementservice.controller.EmployeeController : []
+2021-08-17 13:54:22.423 DEBUG [emp-mgmt-service, ,,] [http-nio-8991-exec-1] com.example.employeemanagementservice.controller.EmployeeController : Execution time of EmployeeController.getMsg :: 7 ms
